@@ -1,0 +1,2 @@
+﻿PlayerMoveSpeed,DialogueWriteSpeed,MushroomGruntMoveSpeed,GruntDetectionRange,GruntAttackRange,GruntRandomMoveDelay,PlantRandomMoveDelay,PlantMoveSpeed,PlantStopDistance,PlantRetreatDistance,BulletSpeed
+10,1,5,100,4,3,1.5,10,15,7,50
